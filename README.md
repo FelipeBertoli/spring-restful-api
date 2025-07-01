@@ -1,5 +1,5 @@
 # Restful API feita com Springboot
-Java RESTful API criada para o bootcamp fullstack da Santander 2023, construída em Java 17 com Spring Boot 3.
+API RESTFul de um CRUD básico de usuários criada para o bootcamp fullstack da Santander 2023, construída em Java 17 com Spring Boot 3.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
